@@ -10,4 +10,4 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- tengo 2000hs en el CS
+- tengo 2000hs en el cs
